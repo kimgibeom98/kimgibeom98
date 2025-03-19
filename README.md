@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 
----
-### 블로그 - https://velog.io/@kimgibeom98
